@@ -1,0 +1,2 @@
+https://tutorial.djangogirls.org/es/django_start_project/ ----> Blog(Mysite)
+https://www.youtube.com/watch?v=9MBsaWe0SN4  ------> Universidad(Registro)
